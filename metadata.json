@@ -1,0 +1,8 @@
+{
+  "name": " VSA AI",
+  "description": "Production-ready AI platform featuring multimodal AI Chat with in-chat image editing, 20 distinct AI Voice personas (10 female \u0026 10 male), 100+ languages including Nepali and all Indian scheduled languages, PDF, Email \u0026 Text Studio tools, User dashboard and Admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

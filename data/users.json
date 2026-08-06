@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr_super_admin_vishal",
+    "name": "Vishal Kumar",
+    "email": "vishalkumar20102009@gmail.com",
+    "mobile": "+91 8130568785",
+    "passwordHash": "$2b$12$hQSuFMyV5txYRkXGOnvK0.idLwXti2IPTOEAVT5ApYPbpS2XBMPXm",
+    "role": "super_admin",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "bio": "Founder, Solo Developer & Super Administrator of VSA AI Studio.",
+    "securityQuestion": "What is your primary developer handle?",
+    "securityAnswerHash": "$2b$10$mx1/jXyQvzzK8XODgVekQ.HObHAZvBOWHtvMvfNN75uJ1tw18r7uq",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "lastLoginAt": "2026-08-06T00:44:51.332Z",
+    "stats": {
+      "filesProcessed": 520,
+      "aiQueries": 1420,
+      "storageUsedMb": 124.5
+    }
+  },
+  {
+    "id": "usr_demo_002",
+    "name": "Rohan Verma",
+    "email": "user@vsa.ai",
+    "mobile": "8888888888",
+    "passwordHash": "$2b$10$.m5FSlb6la4hZTJZGkEN1.1Vt/HjiO67qGq6lvErQzhJVDxFkAE6O",
+    "role": "user",
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "bio": "Content Creator & Media Producer utilizing VSA AI Studio.",
+    "securityQuestion": "What was the name of your first school?",
+    "securityAnswerHash": "$2b$10$sEt.Nxa1MzxL0JTROr2yJ.wtMnCC9gqOfbIILYIm9U3BDzK6bP3oa",
+    "createdAt": "2026-02-15T10:15:00.000Z",
+    "lastLoginAt": "2026-08-06T00:44:51.506Z",
+    "stats": {
+      "filesProcessed": 38,
+      "aiQueries": 112,
+      "storageUsedMb": 24.1
+    }
+  }
+]

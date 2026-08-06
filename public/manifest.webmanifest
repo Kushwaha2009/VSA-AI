@@ -1,0 +1,103 @@
+{
+  "name": "VSA AI - Smart Solutions, Smarter Future",
+  "short_name": "VSA AI",
+  "description": "All-in-one AI Multimodal Workspace: Multi-Model AI Chat, PDF Security & Processing Suite, Image Generation Studio, and Video Audio Extractor.",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui", "browser"],
+  "orientation": "any",
+  "background_color": "#09090b",
+  "theme_color": "#4f46e5",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["productivity", "utilities", "business", "multimedia"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "AI Multi-Model Chat",
+      "short_name": "AI Chat",
+      "description": "Engage with Gemini 3.6, Claude 3.7, GPT-4o, and Indian language models",
+      "url": "/?tab=chat&source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "PDF Security Suite",
+      "short_name": "PDF Suite",
+      "description": "Merge, compress, split, OCR scan, and encrypt PDF documents",
+      "url": "/?tab=pdf&source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "AI Image Studio",
+      "short_name": "Image Studio",
+      "description": "Generate hyper-realistic AI images, remove backgrounds and enhance graphics",
+      "url": "/?tab=image&source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Video Audio Extractor",
+      "short_name": "Video Studio",
+      "description": "Extract MP3 audio tracks and transcode video media",
+      "url": "/?tab=video&source=pwa_shortcut",
+      "icons": [
+        {
+          "src": "/icon-192.svg",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

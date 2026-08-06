@@ -1,0 +1,47 @@
+[
+  {
+    "id": "log_1785977878695_nz31",
+    "level": "info",
+    "service": "GEMINI_AI",
+    "message": "Stream completed with model gemini-3.6-flash",
+    "timestamp": "2026-08-06T00:57:58.695Z"
+  },
+  {
+    "id": "log_1785977872313_oovx",
+    "level": "info",
+    "service": "AUTH",
+    "message": "User logged in: Rohan Verma (user@vsa.ai)",
+    "details": "IP: 2409:408a:1d03:9d60:385c:c63b:7bb:dc71",
+    "userId": "usr_demo_002",
+    "timestamp": "2026-08-06T00:57:52.313Z"
+  },
+  {
+    "id": "log_1785977867983_hs97",
+    "level": "info",
+    "service": "GEMINI_AI",
+    "message": "AI query processed using gemini-3.6-flash (hello)",
+    "timestamp": "2026-08-06T00:57:47.983Z"
+  },
+  {
+    "id": "log_001",
+    "level": "info",
+    "service": "SYSTEM",
+    "message": "VSA AI Engine v2.4 initialized successfully",
+    "timestamp": "2026-08-05T23:44:51.506Z"
+  },
+  {
+    "id": "log_002",
+    "level": "info",
+    "service": "AUTH",
+    "message": "Super Admin root security initialized for vishalkumar20102009@gmail.com",
+    "userId": "usr_super_admin_vishal",
+    "timestamp": "2026-08-06T00:14:51.506Z"
+  },
+  {
+    "id": "log_003",
+    "level": "info",
+    "service": "GEMINI_AI",
+    "message": "Model gemini-3.6-flash readiness check OK",
+    "timestamp": "2026-08-06T00:29:51.506Z"
+  }
+]
